@@ -6,7 +6,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
-#from wordcloud import WordCloud
+from wordcloud import WordCloud
 from collections import Counter
 import re
 import warnings
